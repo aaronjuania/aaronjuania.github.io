@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500');
+   
+
+/***** Aaron Andre J. Dela Cruz ***/
+h1 {
+    color: #104a69;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/***** Info ***/
+#info {
+    color: #7b7979;
+    font-family: 'Roboto', sans-serif;
+}
+
+/***** Headings ***/
+h3 {
+    color: #FC9E4F;
+    font-family: 'Roboto', sans-serif;
+}
+
+/***** Left Sidebar ***/
+#left {
+    background-color: #003049;
+    width: 25em;
+    height: 100vh;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+/***** Right Sidebar ***/
+
+#right {
+    background-color: #EAE2B7;
+    color: #59656F;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 0em;
+    padding-right: 5em;
+    
+}
+.container {
+    margin-right: 0;
+    margin-left: 30em;
+}
+hr {
+    padding-left: 0em;
+}
+/***** Picture ***/
+#picture {
+    border-radius: 50%;
+}
+
+/***** Anchor ***/
+a {
+    color: #cbcbcb;
+}
+
+/***** Table ***/
+ul {
+    padding: 0;
+}
+
